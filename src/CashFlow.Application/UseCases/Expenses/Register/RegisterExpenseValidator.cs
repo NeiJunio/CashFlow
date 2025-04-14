@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CashFlow.Communication.Requests;
+using FluentValidation;
 
 namespace CashFlow.Application.UseCases.Expenses.Register
 {
-    class RegisterExpenseValidator
+    public class RegisterExpenseValidator : AbstractValidator<RequestRegisterExpenseJson>
     {
+        public RegisterExpenseValidator()
+        {
+            RuleFor(expense => expense.Title).NotEmpty().WithMessage("The Title is required");
+            RuleFor(expense => expense.Amount).GreaterThan(0).WithMessage("The Amount must be greater than zero");
+            RuleFor(expense => expense.Date).LessThanOrEqualTo(DateTime.UtcNow).WithMessage("Expanses cannot be for the future");
+            RuleFor(expense => expense.PaymentType).IsInEnum().WithMessage("Payment Type is not valid.");
+            // RuleFor(lambda acessando uma das propriedades).verificação.respostaEmCasoDeErro
+        }
     }
 }
