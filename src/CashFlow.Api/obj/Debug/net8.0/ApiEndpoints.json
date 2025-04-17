@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "CashFlow.Communication.Requests.RequestRegisterExpensesJson",
+        "Type": "CashFlow.Communication.Requests.RequestRegisterExpenseJson",
         "IsRequired": true
       }
     ],
