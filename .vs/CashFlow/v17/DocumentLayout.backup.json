@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,9 +103,9 @@
               "Title": "ExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs*",
-              "RelativeToolTip": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:43:57.114Z",
               "EditorCaption": ""
@@ -136,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterExpenseUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
@@ -149,13 +149,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExpensesController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T18:47:21.044Z",
               "EditorCaption": ""

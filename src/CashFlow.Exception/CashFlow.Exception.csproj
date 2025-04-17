@@ -6,4 +6,23 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Remove="ResourceErrorMessages.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="ResourceErrorMessages.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResourceErrorMessages.Designer.cs</LastGenOutput>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ResourceErrorMessages.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ResourceErrorMessages.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
 </Project>
