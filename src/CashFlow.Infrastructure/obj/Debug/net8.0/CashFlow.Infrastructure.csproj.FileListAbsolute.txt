@@ -29,3 +29,4 @@ C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Infrastructure\obj\Debug
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.sourcelink.json

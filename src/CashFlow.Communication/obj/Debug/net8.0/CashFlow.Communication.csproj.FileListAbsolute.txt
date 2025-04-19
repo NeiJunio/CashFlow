@@ -21,3 +21,4 @@ C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Communication\obj\Debug\
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json

@@ -21,3 +21,4 @@ C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json

@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\",
+  "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC827FB6-A7B1-4DF7-B995-1C13BFD3EDC6}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\cashflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\cashflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC827FB6-A7B1-4DF7-B995-1C13BFD3EDC6}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{EC827FB6-A7B1-4DF7-B995-1C13BFD3EDC6}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC827FB6-A7B1-4DF7-B995-1C13BFD3EDC6}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.exception\\resourceerrormessages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC827FB6-A7B1-4DF7-B995-1C13BFD3EDC6}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\cashflow.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\cashflow.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,38 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterExpenseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T17:55:11.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Filters\\ExceptionFilter.cs",
-              "ViewState": "AgIAABgAAABAMzMzMzMhwCIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:46:15.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -67,23 +53,92 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:24:57.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CultureMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Middleware\\CultureMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:50:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashFlow.Api",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "RelativeToolTip": "src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T12:49:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceErrorMessages.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.Designer.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.Designer.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.Designer.cs",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:20:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ResourceErrorMessages.resx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-17T16:45:39.375Z",
+              "WhenOpened": "2025-04-19T12:19:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Program.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:10:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashFlow.Api",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "RelativeToolTip": "src\\CashFlow.Api\\CashFlow.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T19:09:19.26Z",
               "EditorCaption": ""
             }
           ]
