@@ -10,6 +10,7 @@
         "dependencies": {
           "CashFlow.Application": "1.0.0",
           "CashFlow.Communication": "1.0.0",
+          "CashFlow.Exception": "1.0.0",
           "CommonTestUtilities": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "Shouldly": "4.3.0",

@@ -41,3 +41,6 @@ C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Application\obj\Debug\
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Users\Usuario\Documents\GitHub\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll

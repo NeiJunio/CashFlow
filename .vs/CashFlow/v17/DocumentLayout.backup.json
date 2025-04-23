@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\",
+  "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CCC1D1E-2C10-4499-BA76-C556E213E92D}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\tests\\validators.tests\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CCC1D1E-2C10-4499-BA76-C556E213E92D}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\tests\\validators.tests\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCC1D1E-2C10-4499-BA76-C556E213E92D}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CCC1D1E-2C10-4499-BA76-C556E213E92D}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\users\\usuario\\documents\\github\\cashflow\\tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CCC1D1E-2C10-4499-BA76-C556E213E92D}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\validators.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -37,31 +33,27 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Validators.Tests",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
-              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Validators.Tests.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
-              "RelativeToolTip": "tests\\Validators.Tests\\Validators.Tests.csproj",
-              "ViewState": "AgIAAAkAAABgZmZmZmYkwBkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T13:30:19.003Z",
+              "Title": "RegisterExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:54:08.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RegisterExpenseValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
               "RelativeToolTip": "tests\\Validators.Tests\\RegisterExpenseValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T12:49:46.195Z",
               "EditorCaption": ""
