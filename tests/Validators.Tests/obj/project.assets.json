@@ -5936,23 +5936,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\Nei Junio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
       "projectName": "Validators.Tests",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\Validators.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
+      "packagesPath": "C:\\Users\\Nei Junio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\Validators.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nei Junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5967,17 +5967,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
             },
-            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj"
             }
           }
         }
@@ -6035,7 +6035,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
