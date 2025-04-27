@@ -11,7 +11,7 @@ public class RegisterExpenseUseCase : IRegisterExpenseUseCase
 
     public RegisterExpenseUseCase(IExpensesRepository repository)
     {
-      _repository = repository;  
+        _repository = repository;
     }
 
     public ResponseRegisteredExpenseJson Execute(RequestRegisterExpenseJson request)
@@ -26,6 +26,8 @@ public class RegisterExpenseUseCase : IRegisterExpenseUseCase
             Title = request.Title,
             PaymentType = (Domain.Enums.PaymentType)request.PaymentType
         };
+
+        _repository.Add(entity);
 
         return new ResponseRegisteredExpenseJson();
     }

@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C96A518-46D6-4F86-B6BD-F79561789D83}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\nei junio\\documents\\github\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\iregisterexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8858AEC6-D0DF-4841-9B01-797F2CDB4F9C}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\iregisterexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +44,35 @@
               "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
               "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:17:55.608Z",
+              "WhenOpened": "2025-04-27T17:47:13.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:45:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\IRegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\IRegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\IRegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\IRegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:44:56.79Z",
               "EditorCaption": ""
             }
           ]
