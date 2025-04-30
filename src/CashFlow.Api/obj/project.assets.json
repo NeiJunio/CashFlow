@@ -378,6 +378,7 @@
           "CashFlow.Communication": "1.0.0",
           "CashFlow.Domain": "1.0.0",
           "CashFlow.Exception": "1.0.0",
+          "CashFlow.Infrastructure": "1.0.0",
           "FluentValidation": "11.11.0",
           "Microsoft.Extensions.DependencyInjection": "8.0.1"
         },
@@ -1261,23 +1262,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nei Junio\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
       "projectName": "CashFlow.Api",
-      "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
-      "packagesPath": "C:\\Users\\Nei Junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Api\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nei Junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1292,17 +1293,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
             },
-            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
             },
-            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
             },
-            "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+            "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
             }
           }
         }
@@ -1347,7 +1348,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
