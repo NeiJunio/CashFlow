@@ -1,1 +1,23 @@
-{"ShowEmptyProjects":false,"CustomColumnOrderings":{"name":0,"type":1,"neutral-value":2,"neutral-comment":3,"file-path":1,"file-name":2,"pt-BR":4,"pt-PT":5,"fr":6},"ShowValidationErrors":true,"SelectedResourceGroupsByProjectFilePath":{"C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj":["C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx"]},"VisibleColumnKeys":["name","neutral-value","neutral-comment","pt-BR","fr","pt-PT"]}
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "type",
+    "neutral-value",
+    "neutral-comment",
+    "fr",
+    "pt-BR",
+    "pt-PT"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "neutral-comment",
+    "pt-PT",
+    "fr",
+    "pt-BR",
+    "neutral-value"
+  ]
+}
