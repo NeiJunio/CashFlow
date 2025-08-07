@@ -25,7 +25,6 @@ C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\C
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.AssemblyInfoInputs.cache
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.AssemblyInfo.cs
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.csproj.CoreCompileInputs.cache
-C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\scopedcss\bundle\CashFlow.Api.styles.css
 C:\Users\Nei Junio\Documents\Github\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\staticwebassets.build.json
