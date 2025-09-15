@@ -1,7 +1,12 @@
 {
   "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
+  "SelectedGroups": [
+    "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx"
+  ],
+  "ExpandedProjects": [
+    "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+    "C:\\Users\\Nei Junio\\Documents\\Github\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+  ],
   "EnableSpellChecker": true,
   "ColumnOrder": [
     "name",
@@ -10,7 +15,9 @@
     "neutral-comment",
     "fr",
     "pt-BR",
-    "pt-PT"
+    "pt-PT",
+    "file-path",
+    "file-name"
   ],
   "VisibleColumnKeys": [
     "name",
